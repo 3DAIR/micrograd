@@ -1,0 +1,4 @@
+digraph {
+	graph [rankdir=LR]
+	node [shape=record]
+}
